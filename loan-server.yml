@@ -1,0 +1,12 @@
+loan-server:
+  msg: Welcome to the maorzehavi Loan-server Default application
+  build-version: 3
+  mailDetails:
+    hostName: default-loans@maorzehavi.com
+    port: 9001
+    from: default-loans@maorzehavi.com
+    subject: Your Loan Details from Maorzehavi Bank Default Environment
+  activeBranches:
+    - Israel
+    - London
+    - Washington

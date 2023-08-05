@@ -1,0 +1,12 @@
+card-server:
+  msg: Welcome to the maorzehavi Card-server Dev application
+  build-version: 2
+  mailDetails:
+    hostName: dev-cards@maorzehavi.com
+    port: 9022
+    from: dev-cards@maorzehavi.com
+    subject: Your Card Details from Maorzehavi Bank Dev Environment
+  activeBranches:
+    - Spain
+    - London
+    - Washington

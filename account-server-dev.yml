@@ -1,0 +1,12 @@
+account-server:
+  msg: Welcome to the maorzehavi Account-server Dev application
+  build-version: 2
+  mailDetails:
+    hostName: dev-accounts@maorzehavi.com
+    port: 9020
+    from: dev-accounts@maorzehavi.com
+    subject: Your Account Details from Maorzehavi Bank Dev Environment
+  activeBranches:
+    - Spain
+    - London
+    - Washington

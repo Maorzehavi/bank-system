@@ -1,0 +1,12 @@
+account-server:
+  msg: Welcome to the maorzehavi Account-server Default application
+  build-version: 3
+  mailDetails:
+    hostName: default-accounts@maorzehavi.com
+    port: 9000
+    from: default-accounts@maorzehavi.com
+    subject: Your Account Details from Maorzehavi Bank Default Environment
+  activeBranches:
+    - Israel
+    - London
+    - Washington

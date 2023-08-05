@@ -1,0 +1,12 @@
+loan-server:
+  msg: Welcome to the maorzehavi Loan-server Dev application
+  build-version: 2
+  mailDetails:
+    hostName: dev-loans@maorzehavi.com
+    port: 9021
+    from: dev-loans@maorzehavi.com
+    subject: Your Loan Details from Maorzehavi Bank Dev Environment
+  activeBranches:
+    - Spain
+    - London
+    - Washington

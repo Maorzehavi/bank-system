@@ -1,0 +1,12 @@
+loan-server:
+  msg: Welcome to the maorzehavi Loan-server Prod application
+  build-version: 1
+  mailDetails:
+    hostName: prod-loans@maorzehavi.com
+    port: 9011
+    from: prod-loans@maorzehavi.com
+    subject: Your Loan Details from Maorzehavi Bank Prod Environment
+  activeBranches:
+    - USA
+    - London
+    - Washington

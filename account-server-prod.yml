@@ -1,0 +1,12 @@
+card-server:
+  msg: Welcome to the maorzehavi Account-server Prod application
+  build-version: 1
+  mailDetails:
+    hostName: prod-accounts@maorzehavi.com
+    port: 9010
+    from: prod-accounts@maorzehavi.com
+    subject: Your Account Details from Maorzehavi Bank Prod Environment
+  activeBranches:
+    - USA
+    - London
+    - Washington
